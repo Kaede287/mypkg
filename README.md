@@ -14,4 +14,7 @@
         * [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
 
 ©2023 Kaede Ichikawa
+<<<<<<< HEAD
 
+=======
+>>>>>>> 41bfe5fe118acc691f55b700e03ca971a4dd82e1
