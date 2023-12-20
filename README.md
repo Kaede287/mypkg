@@ -22,6 +22,7 @@ $ cd ~/[ディレクトリ名]
 $ colcon build
 $ source ~/.bashrc
 ```
+2つの端末を使って実行してください.
 
  * 端末1 (talker)
 
