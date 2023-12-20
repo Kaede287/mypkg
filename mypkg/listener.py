@@ -6,9 +6,9 @@ def cb(msg):
 
     global node
     
-    if msg.data >= 1500:
+    if msg.data >= 1800:
 
-        node.get_logger().info('1500に到達しました %d' % msg.data)
+        node.get_logger().info('1800に到達しました %d' % msg.data)
 
     else:
 
@@ -18,4 +18,4 @@ def cb(msg):
 rclpy.init()
 node = Node("listener")
 pub = node.create_subscription(Int16, "countup", cb,  10)
-rclpy.spin(node)
+rclpy.spin(node)git push origin main
