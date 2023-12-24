@@ -1,0 +1,25 @@
+[1.941s] Invoking command in '/home/kaede/ros2_ws/src/mypkg': PYTHONPATH=/home/kaede/ros2_ws/src/mypkg/build/mypkg/prefix_override:/home/kaede/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/mypkg build --build-base /home/kaede/ros2_ws/src/mypkg/build/mypkg/build install --record /home/kaede/ros2_ws/src/mypkg/build/mypkg/install.log --install-scripts $base/lib/mypkg --single-version-externally-managed
+[2.283s] running egg_info
+[2.284s] writing build/mypkg/mypkg.egg-info/PKG-INFO
+[2.285s] writing dependency_links to build/mypkg/mypkg.egg-info/dependency_links.txt
+[2.286s] writing entry points to build/mypkg/mypkg.egg-info/entry_points.txt
+[2.286s] writing requirements to build/mypkg/mypkg.egg-info/requires.txt
+[2.286s] writing top-level names to build/mypkg/mypkg.egg-info/top_level.txt
+[2.360s] reading manifest file 'build/mypkg/mypkg.egg-info/SOURCES.txt'
+[2.363s] writing manifest file 'build/mypkg/mypkg.egg-info/SOURCES.txt'
+[2.363s] running build
+[2.364s] running build_py
+[2.364s] copying mypkg/listener.py -> /home/kaede/ros2_ws/src/mypkg/build/mypkg/build/lib/mypkg
+[2.365s] running install
+[2.366s] running install_lib
+[2.367s] copying /home/kaede/ros2_ws/src/mypkg/build/mypkg/build/lib/mypkg/listener.py -> /home/kaede/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages/mypkg
+[2.368s] byte-compiling /home/kaede/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages/mypkg/listener.py to listener.cpython-38.pyc
+[2.371s] running install_data
+[2.372s] running install_egg_info
+[2.375s] removing '/home/kaede/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages/mypkg-0.0.0-py3.8.egg-info' (and everything under it)
+[2.375s] Copying build/mypkg/mypkg.egg-info to /home/kaede/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages/mypkg-0.0.0-py3.8.egg-info
+[2.378s] running install_scripts
+[2.411s] Installing listener script to /home/kaede/ros2_ws/src/mypkg/install/mypkg/lib/mypkg
+[2.411s] Installing talker script to /home/kaede/ros2_ws/src/mypkg/install/mypkg/lib/mypkg
+[2.412s] writing list of installed files to '/home/kaede/ros2_ws/src/mypkg/build/mypkg/install.log'
+[2.450s] Invoked command in '/home/kaede/ros2_ws/src/mypkg' returned '0': PYTHONPATH=/home/kaede/ros2_ws/src/mypkg/build/mypkg/prefix_override:/home/kaede/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/mypkg build --build-base /home/kaede/ros2_ws/src/mypkg/build/mypkg/build install --record /home/kaede/ros2_ws/src/mypkg/build/mypkg/install.log --install-scripts $base/lib/mypkg --single-version-externally-managed

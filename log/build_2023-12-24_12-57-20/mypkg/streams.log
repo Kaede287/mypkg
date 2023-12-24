@@ -1,0 +1,26 @@
+[2.397s] Invoking command in '/home/kaede/ros2_ws/src/mypkg': PYTHONPATH=/home/kaede/ros2_ws/src/mypkg/build/mypkg/prefix_override:/home/kaede/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/mypkg build --build-base /home/kaede/ros2_ws/src/mypkg/build/mypkg/build install --record /home/kaede/ros2_ws/src/mypkg/build/mypkg/install.log --install-scripts $base/lib/mypkg --single-version-externally-managed
+[2.846s] running egg_info
+[2.847s] writing build/mypkg/mypkg.egg-info/PKG-INFO
+[2.852s] writing dependency_links to build/mypkg/mypkg.egg-info/dependency_links.txt
+[2.852s] writing entry points to build/mypkg/mypkg.egg-info/entry_points.txt
+[2.852s] writing requirements to build/mypkg/mypkg.egg-info/requires.txt
+[2.853s] writing top-level names to build/mypkg/mypkg.egg-info/top_level.txt
+[2.931s] reading manifest file 'build/mypkg/mypkg.egg-info/SOURCES.txt'
+[2.933s] writing manifest file 'build/mypkg/mypkg.egg-info/SOURCES.txt'
+[2.934s] running build
+[2.934s] running build_py
+[2.935s] copying mypkg/listener.py -> /home/kaede/ros2_ws/src/mypkg/build/mypkg/build/lib/mypkg
+[2.935s] running install
+[2.937s] running install_lib
+[2.940s] copying /home/kaede/ros2_ws/src/mypkg/build/mypkg/build/lib/mypkg/listener.py -> /home/kaede/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages/mypkg
+[2.941s] byte-compiling /home/kaede/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages/mypkg/listener.py to listener.cpython-38.pyc
+[2.945s] Sorry: IndentationError: unindent does not match any outer indentation level (listener.py, line 30)
+[2.945s] running install_data
+[2.946s] running install_egg_info
+[2.950s] removing '/home/kaede/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages/mypkg-0.0.0-py3.8.egg-info' (and everything under it)
+[2.952s] Copying build/mypkg/mypkg.egg-info to /home/kaede/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages/mypkg-0.0.0-py3.8.egg-info
+[2.955s] running install_scripts
+[2.984s] Installing listener script to /home/kaede/ros2_ws/src/mypkg/install/mypkg/lib/mypkg
+[2.986s] Installing talker script to /home/kaede/ros2_ws/src/mypkg/install/mypkg/lib/mypkg
+[2.988s] writing list of installed files to '/home/kaede/ros2_ws/src/mypkg/build/mypkg/install.log'
+[3.037s] Invoked command in '/home/kaede/ros2_ws/src/mypkg' returned '0': PYTHONPATH=/home/kaede/ros2_ws/src/mypkg/build/mypkg/prefix_override:/home/kaede/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/mypkg build --build-base /home/kaede/ros2_ws/src/mypkg/build/mypkg/build install --record /home/kaede/ros2_ws/src/mypkg/build/mypkg/install.log --install-scripts $base/lib/mypkg --single-version-externally-managed
