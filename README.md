@@ -1,13 +1,9 @@
 # mypkg
 [![test](https://github.com/Kaede287/mypkg2/actions/workflows/test.yml/badge.svg)](https://github.com/Kaede287/mypkg2/actions/workflows/test.yml)
 
-## トピックの説明
+## /countdownトピックの説明
 
-* /countupトピックを使用します.
-
-## メッセージトピックの説明
-
-* int16型のメッセージを使用します.
+* Int16型のメッセージをパブリッシュ及びサブスクライブするトピックです.
 
 ### talkerについての説明
 
